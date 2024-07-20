@@ -1,0 +1,44 @@
+body{
+    
+    text-align: justify ;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background-image: url(reg2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-attachment: fixed;
+        
+    
+}
+h1{
+    text-align:middle;
+
+}
+a{
+    font-size:20px;
+    align-content: center;
+    text-decoration: none;
+    padding: 20px;
+}
+div{
+    background-color:rgba(255,255,255,0.35);
+    padding-top:50px;
+    padding-right:100px;
+    padding-left:100px;
+    padding-bottom:100px;
+    width: 280px;
+    height: 400px;      
+}
+body,nav,ul,a{
+    text-align: left;
+    padding: 15px;
+    margin-left: 0;
+
+}
+
+
+
